@@ -2,9 +2,8 @@
 //  ScrollController.m
 //  BuildScrollView
 //
-//  Created by barroso on 5/2/14.
-//  Copyright (c) 2014 Orionbelt.com LLC. All rights reserved.
-//
+// Code is from http://oleb.net/blog/2014/04/understanding-uiscrollview/?utm_campaign=iOS_Dev_Weekly_Issue_144&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
+
 
 #import "ScrollController.h"
 
