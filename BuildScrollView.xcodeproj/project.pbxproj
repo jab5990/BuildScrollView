@@ -19,6 +19,7 @@
 		8A4094351913E6BA006CC19F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8A40941D1913E6BA006CC19F /* UIKit.framework */; };
 		8A40943D1913E6BA006CC19F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8A40943B1913E6BA006CC19F /* InfoPlist.strings */; };
 		8A40943F1913E6BA006CC19F /* BuildScrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A40943E1913E6BA006CC19F /* BuildScrollViewTests.m */; };
+		8A40944A1913E6F2006CC19F /* ScrollController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A4094491913E6F2006CC19F /* ScrollController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,8 @@
 		8A40943A1913E6BA006CC19F /* BuildScrollViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BuildScrollViewTests-Info.plist"; sourceTree = "<group>"; };
 		8A40943C1913E6BA006CC19F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8A40943E1913E6BA006CC19F /* BuildScrollViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BuildScrollViewTests.m; sourceTree = "<group>"; };
+		8A4094481913E6F2006CC19F /* ScrollController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollController.h; sourceTree = "<group>"; };
+		8A4094491913E6F2006CC19F /* ScrollController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +114,8 @@
 				8A4094291913E6BA006CC19F /* AppDelegate.m */,
 				8A40942B1913E6BA006CC19F /* Images.xcassets */,
 				8A4094201913E6BA006CC19F /* Supporting Files */,
+				8A4094481913E6F2006CC19F /* ScrollController.h */,
+				8A4094491913E6F2006CC19F /* ScrollController.m */,
 			);
 			path = BuildScrollView;
 			sourceTree = "<group>";
@@ -239,6 +244,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A40944A1913E6F2006CC19F /* ScrollController.m in Sources */,
 				8A40942A1913E6BA006CC19F /* AppDelegate.m in Sources */,
 				8A4094261913E6BA006CC19F /* main.m in Sources */,
 			);

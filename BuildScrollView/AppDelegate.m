@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "ScrollController.h"
 
 @implementation AppDelegate
 
@@ -15,7 +16,26 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+
+
+    UIViewController *root = [[UIViewController alloc] init];
+    
+    CGRect rect = self.window.frame;
+    //rect.size.height = rect.size.height * 3.0;
+    ScrollController *view = [[ScrollController alloc] initWithFrame:rect];
+    CGSize size;
+    size.width = rect.size.width;
+    size.height = rect.size.height * 2.0;
+    [view setContentSize:size];
+    
+    
+    
+    root.view = view;
+    
+    self.window.rootViewController = root;
+    
     [self.window makeKeyAndVisible];
+
     return YES;
 }
 

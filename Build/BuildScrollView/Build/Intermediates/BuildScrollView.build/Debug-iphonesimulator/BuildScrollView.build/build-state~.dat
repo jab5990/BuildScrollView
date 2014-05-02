@@ -1,0 +1,308 @@
+TBuildScrollView
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch BuildScrollView/BuildScrollView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView normal i386
+cGenerateDSYMFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView
+cCopyStringsFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings BuildScrollView/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets
+cProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist
+cTouch /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523A0DAF00000000000003B5
+t1379536303
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523A0DB7000000000000019E
+t1379536311
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523A0DB90000000000445830
+t1379536313
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523A0DBB000000000088B570
+t1379536315
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523A0DC10000000001DB1C90
+t1379536321
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523A0DE30000000000000AC9
+t1379536355
+s2761
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o
+t1399041854
+s66832
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/BuildScrollView.LinkFileList
+c000000005363AF3D000000000000017D
+t1399041853
+s381
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o
+t1399041854
+s3704
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_dependencies.txt
+t1399041856
+s511
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_generated_info.plist
+t1399041856
+s525
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch
+t1399041854
+s108784
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app
+t1399041856
+s272
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM
+t2
+s0
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView
+t1399041854
+s16484
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist
+t1399041856
+s1008
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/PkgInfo
+t1399041856
+s8
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings
+t1399041855
+s42
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m
+c000000005363AF3A0000000000000889
+t1399041850
+s2185
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist
+c000000005363AF3A0000000000000492
+t1399041850
+s1170
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Prefix.pch
+c000000005363AF3A0000000000000158
+t1399041850
+s344
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets
+c000000005363AF3A0000000000000088
+t1399041850
+s136
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/en.lproj/InfoPlist.strings
+c000000005363AF3A000000000000002D
+t1399041850
+s45
+
+N/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m
+c000000005363AF3A000000000000015A
+t1399041850
+s346
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m
+r0
+
+CBuild AST from /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd7345bbde613b941^5a9e63bde613b941^---0#1#1#--18"Check dependencies36"80E7B712-5968-4B9D-A2F7-3E124CD79116-
+
+CCompileAssetCatalog /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets
+s420734655.003716
+e420734656.147858
+r1
+xCompileAssetCatalog
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/LaunchImage-700-568h@2x.png
+o/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Assets.car
+o/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CompileAssetCatalog Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app BuildScrollView/Images.xcassets130"CompileAssetCatalog Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app BuildScrollView/Images.xcassetsaa0a01bfe613b941^8cda25c0e613b941^-539"/* com.apple.actool.compilation-results *//Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/LaunchImage-700-568h@2x.png/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Assets.car/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@100"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets/0000000000000000^1355"CompileAssetCatalog Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app BuildScrollView/Images.xcassets    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/Images.xcassets36"B40FD99A-9467-424B-99D5-5BC5DFD1E5F0-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CCompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420734654.831849
+e420734654.917271
+r1
+xCompileC
+xBuild/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m248"CompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o BuildScrollView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercf15d5bee613b941^52d3eabee613b941^---0#0#1#-19%DVTDocumentLocation2@97"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m0000000000000000^4340"CompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o BuildScrollView/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.dia -c /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.m -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o36"14E9DA4C-72D9-43C1-957C-48141FB56C29-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CCompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420734654.831872
+e420734654.873981
+r1
+xCompileC
+xBuild/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m234"CompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o BuildScrollView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0d17d5bee613b941^6abddfbee613b941^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m0000000000000000^4298"CompileC Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o BuildScrollView/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator -include /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.dia -c /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/main.m -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o36"ECDCBAAE-7158-4001-B74D-C924090BEC44-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CCopyStringsFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings BuildScrollView/en.lproj/InfoPlist.strings
+s420734655.003703
+e420734655.006221
+r1
+xCopyStringsFile
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings
+xBuildScrollView/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy BuildScrollView/en.lproj/InfoPlist.strings164"CopyStringsFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings BuildScrollView/en.lproj/InfoPlist.strings4f0401bfe613b941^6c9801bfe613b941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/en.lproj/InfoPlist.strings0000000000000000^695"CopyStringsFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj/InfoPlist.strings BuildScrollView/en.lproj/InfoPlist.strings    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/en.lproj -- BuildScrollView/en.lproj/InfoPlist.strings36"7FFDE925-A289-4D73-9F85-7F6D0FC2730F-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CGenerateDSYMFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView
+s420734654.969349
+e420734654.995248
+r1
+xGenerateDSYMFile
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Generate /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM195"GenerateDSYMFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView6d3cf8bee613b941^5cc9febee613b941^---0#0#1#-19%DVTDocumentLocation2@151"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM003874a7dfffdf42^836"GenerateDSYMFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app.dSYM36"1ADD1185-EC07-4B91-94ED-2F12AC8662B6-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CLd /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView normal i386
+s420734654.925538
+e420734654.960806
+r1
+xLd
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView
+xnormal
+xi386
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/BuildScrollView.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/AppDelegate.o
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView109"Ld Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView normal i386bc06edbee613b941^4df8f5bee613b941^---0#0#1#--1679"Ld Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView normal i386    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator -F/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator -filelist /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/BuildScrollView.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/Objects-normal/i386/BuildScrollView_dependency_info.dat -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/BuildScrollView36"30E6AF63-D332-4702-9E54-078222F06826-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CProcessInfoPlistFile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist
+s420734656.156094
+e420734656.159574
+r1
+xProcessInfoPlistFile
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Process /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist153"ProcessInfoPlistFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist BuildScrollView/BuildScrollView-Info.plistc40528c0e613b941^b2da28c0e613b941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist0000000000000000^1107"ProcessInfoPlistFile Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist BuildScrollView/BuildScrollView-Info.plist    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Info.plist -genpkginfo /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/assetcatalog_generated_info.plist -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app/Info.plist36"2A48BA2F-5AF6-4580-8AF7-9178E20185D6-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch BuildScrollView/BuildScrollView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420734653.392761
+e420734654.823325
+r1
+xProcessPCH
+x/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch
+xBuildScrollView/BuildScrollView-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile BuildScrollView/BuildScrollView-Prefix.pch265"ProcessPCH Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch BuildScrollView/BuildScrollView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb7b264bde613b941^e3c5d2bee613b941^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Prefix.pch0000000000000000^4178"ProcessPCH Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch BuildScrollView/BuildScrollView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/barroso/Desktop/Dev/Learning/BuildScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-generated-files.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-own-target-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-all-target-headers.hmap -iquote /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/BuildScrollView-project-headers.hmap -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources/i386 -I/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/BuildScrollView.build/Debug-iphonesimulator/BuildScrollView.build/DerivedSources -F/Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.dia -MMD -MT dependencies -MF /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.d -c /Users/barroso/Desktop/Dev/Learning/BuildScrollView/BuildScrollView/BuildScrollView-Prefix.pch -o /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Intermediates/PrecompiledHeaders/BuildScrollView-Prefix-ffxlnmyolfhrlsagokaduqnabnqr/BuildScrollView-Prefix.pch.pch36"BF7CEB36-0962-4D46-9EDC-5AD19689BC6D-
+bBB3C3526-ED61-4C3C-873E-B07F67534686
+
+CProcessPCH /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Index/PrecompiledHeaders/BuildScrollView-Prefix-gtqqvwbvkbxyuadbirtkgfptkwde_ast/BuildScrollView-Prefix.pch.pch BuildScrollView/BuildScrollView-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/barroso/Desktop/Dev/Learning/BuildScrollView/Build/BuildScrollView/Build/Products/Debug-iphonesimulator/BuildScrollView.app
+r0
+
